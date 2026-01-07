@@ -46,7 +46,6 @@
 | rental           | rental_id                 |
 | staff            | staff_id                  |
 | store            | store_id                  |
-|------------------|---------------------------|
 
 
 ## Задание 3*
